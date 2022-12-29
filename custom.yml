@@ -8,6 +8,8 @@ packages:
   - default-settings
   - dnsmasq-full
   - luci-app-accesscontrol
+  - luci-app-adguardhome
+  - luci-app-ssr-plus
   - luci-theme-argon-2102
   - luci-app-argon-config
   - luci-app-cifsd
