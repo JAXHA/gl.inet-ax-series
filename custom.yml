@@ -11,6 +11,7 @@ packages:
   - luci-app-adguardhome
   - luci-app-ssr-plus
   - luci-app-go-aliyundrive-webdav
+  - luci-app-zerotier
   - luci-theme-argon-2102
   - luci-app-argon-config
   - luci-app-cifsd
