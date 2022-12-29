@@ -10,6 +10,7 @@ packages:
   - luci-app-accesscontrol
   - luci-app-adguardhome
   - luci-app-ssr-plus
+  - luci-app-go-aliyundrive-webdav
   - luci-theme-argon-2102
   - luci-app-argon-config
   - luci-app-cifsd
